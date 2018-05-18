@@ -36,18 +36,17 @@ T.B.A
 
 T.B.A
 
-## Building and Contributing
+## Contributing
 
-Checkout our [CONTRIBUTING.md](https://github.com/hwll/extflix/)
+Checkout our [wiki](https://github.com/hwll/extflix/wiki/contributing)
 
 ## License
 
-Checkout our [LICENSE.md]()
+Checkout our [LICENSE.md](https://github.com/hwll/extflix/blob/master/LICENSE.md)
 
 ## Changelog
 
 Checkout our [changelog](https://github.com/hwll/extflix/changelog) on the Wiki!
-
 
 ## Disclaimer
 
