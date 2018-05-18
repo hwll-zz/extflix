@@ -7,7 +7,7 @@
 [![Opera](https://img.shields.io/badge/opera-version%200.1-red.svg)]()
 [![Firefox](https://img.shields.io/badge/firefox-version%200.1-orange.svg)]()
 
-An extension for Chrome & Firefox which adds a set of extensions for Netflix! 
+An extension for Chrome, Firefox and Opera which adds a set of extensions for Netflix! 
 
 For general documentation and FAQ checkout our [Wiki](https://github.com/hwll/extflix/wiki).
 
