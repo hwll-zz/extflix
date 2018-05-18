@@ -1,4 +1,10 @@
+<img src="https://cdn.rawgit.com/hwll/extflix/5511fed5/content/img/icon/128.png" align="right" />
+
 # Extflix
+
+[![MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/jakeoid/waste-basket/blob/master/LICENSE.md)
+[![Chrome](https://img.shields.io/badge/chrome-version%200.1-lightgrey.svg)]()
+[![Opera](https://img.shields.io/badge/opera-version%200.1-red.svg)]()
 
 An extension for Chrome & Firefox which adds a set of extensions for Netflix! 
 
