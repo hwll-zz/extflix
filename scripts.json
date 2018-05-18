@@ -1,0 +1,66 @@
+{
+
+    "auto_skip_intro": {
+
+        "name": "Auto Skip Intro",
+        "description": "This script is pretty self-explanatory, it automagically skips the intro to a given Netflix episode, allowing for you to binge better and binge for longer!",
+        "file": "auto-skip-intro.js",
+        "author": "Luxocracy"
+
+    },
+
+    "auto_user_select": {
+
+        "name": "Auto User Select",
+        "description": "Upon your Netflix Profile selection page loading, this extension auto-selects the user of your specification to login in as. No longer do you need to drag your mouse to the 4th position!",
+        "file": "auto-user-select.js",
+        "author": "Guile93"
+
+    },
+
+    "auto_watch_next": {
+
+        "name": "Auto Watch Next",
+        "description": "As the video your watching begins to end, this extension will choose to automagically hit that \"Next Episode\" button for you, no need to touch your computer!",
+        "file": "auto-watch-next.js",
+        "author": "Luxocracy"
+
+    },
+
+    "click_play_pause": {
+
+        "name": "Click Play/Pause",
+        "description": "As you begin clicking on the playback video it will begin to pause and resume the playback of the content! Wow, crazy user accessibility!",
+        "file": "click-play-pause.js",
+        "author": "Zren"
+
+    },
+
+    "hide_billboard": {
+
+        "name": "Hide Billboard",
+        "description": "Hides the billboard content over Netflix which often contain annoying videos, with annoying audio. Only watch what you want to watch!",
+        "file": "hide-billboard.css",
+        "author": "Jake"
+
+    },
+
+    "no_hover": {
+
+        "name": "No Tile Hover",
+        "description": "This extension disables the hover events content of a tile, therefore content is flying all around your screen and making site easier to use.",
+        "file": "no-hover.css",
+        "author": "SystemDisc"
+
+    },
+
+    "seek_no_pause": {
+
+        "name": "Seek No Pause",
+        "description": "This extension allows for you to seek the content both seek left and seek right using the keys on your keyboard without it pausing playback of the video.",
+        "file": "seek-no-pause.js",
+        "author": "Plumbus"
+
+    }
+
+}

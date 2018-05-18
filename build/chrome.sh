@@ -1,0 +1,1 @@
+zip -r chrome.zip ../ -x */build* *.gitignore*

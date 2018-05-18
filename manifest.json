@@ -1,0 +1,32 @@
+{
+    "name": "ExtFlix",
+    "version": "0.1",
+    "description": "Extend your Netflix experience with multiple enhancements!",
+    "manifest_version": 2,
+    "permissions": [
+        "*://*.netflix.com/",
+        "storage",
+        "tabs"
+    ],
+    "page_action": {
+        "default_icon": {
+            "16": "/content/img/icon/16.png",
+            "32": "/content/img/icon/32.png",
+            "48": "/content/img/icon/48.png",
+            "128": "/content/img/icon/128.png"
+        }
+    },
+    "background": {
+        "page": "background.html"
+    },
+    "icons": {
+        "16": "/content/img/icon/16.png",
+        "32": "/content/img/icon/32.png",
+        "48": "/content/img/icon/48.png",
+        "128": "/content/img/icon/128.png"
+    },
+    "options_ui": {
+        "open_in_tab": true,
+        "page": "content/options.html"
+    }
+}

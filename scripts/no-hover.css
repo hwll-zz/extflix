@@ -1,0 +1,28 @@
+.mainView .slider-item .bob-card {
+    transform: none !important;
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+}
+
+.mainView .slider-item {
+    transform: none !important;
+}
+
+.bob-card .bob-overlay .bob-title {
+    font-size: 1vw !important;
+}
+
+.bob-card .bob-overlay .bob-info {
+    top: 0;
+}
+
+.bob-card .bob-overlay .bob-info .meta {
+    font-size: 0.8vw !important;
+}
+
+.bob-card .bob-overlay .bob-info .synopsis {
+    margin-top: 15px;
+    font-size: 0.7vw !important;
+}

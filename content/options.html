@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ExtFlix &mdash; Settings</title>
+
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+</head>
+
+<body>
+
+    <a href="https://github.com/hwll/extflix/">
+        <div class="feedback-btn">
+            <img src="../content/img/feedback.svg">
+        </div>
+    </a>
+
+    <nav>
+
+        <main>
+            <img src="../content/img/icon/32.png">
+            <h1>ExtFlix</h1>
+        </main>
+
+        <aside>
+            <svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false">
+                <g>
+                    <path fill="#FFFFFF" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+                </g>
+            </svg>
+            <input type="text" id="search" placeholder="Search Settings">
+        </aside>
+
+    </nav>
+
+    <section>
+
+        <div class="sidebar">
+
+            <ul>
+
+                <a class="extensions" href="#extensions">
+                    <li>Extensions</li>
+                </a>
+                <ul>
+                    <div class="sidebar-extensions-list"></div>
+                </ul>
+                <a class="about" href="#about">
+                    <li>About</li>
+                </a>
+                <a class="support" href="#support">
+                    <li>Support</li>
+                </a>
+
+            </ul>
+
+        </div>
+
+        <div class="content">
+            <h1 id="extensions">Extensions</h1>
+
+            <div id="extension_list">
+
+            </div>
+
+            <h1 id="about">About &amp; Links</h1>
+
+            <article class="column">
+
+                <p>
+                    Extflix is brought to you by a whole bunch of people! And therefore the following links should help you situate yourself.
+                    We're pretty interested in anything and everything people can bring to Extflix, so to suggest features,
+                    view changes, gather support or even contribute your own scripts head to the following links.
+                </p>
+
+                <ul>
+                    <a href="https://github.com/hwll/extflix/wiki/changelog">
+                        <li>Changelog</li>
+                    </a>
+                    <a href="https://github.com/hwll/extflix/wiki/">
+                        <li>Wiki</li>
+                    </a>
+                    <a href="https://github.com/hwll/extflix/issues">
+                        <li>Issues Tracker</li>
+                    </a>
+
+                    <li>Contributors</li>
+                    <ul>
+                        <a href="https://github.com/hwll/extflix/graphs/contributors">
+                            <li>GitHub</li>
+                        </a>
+                    </ul>
+                </ul>
+
+            </article>
+
+            <h1 id="support">Support</h1>
+
+            <article class="column">
+
+                <p>
+                    Oh gday there!
+                </p>
+
+                <p>
+                    We're the developers of Extflix and we'd like your support! Theres a few fees that go into making an extension and we'd greatly
+                    appreciate some cash to put towards things such as Chrome Store fees, coffee, domain, coffee (ok, mainly
+                    coffee) while we are at work on this project!
+                </p>
+
+                <p>
+                    Anything would be greatly appreciated!
+                </p>
+
+                <ul>
+                    <a href="#">
+                        <li>Support our Patreon!</li>
+                    </a>
+                    <li class="disabled">Support on Paypal! (Coming Soon)</li>
+                </ul>
+
+            </article>
+        </div>
+
+    </section>
+
+</body>
+
+<script src="js/jquery.js"></script>
+<script src="js/settings.js"></script>
+
+</html>
